@@ -1,0 +1,14 @@
+C:\Users\Jokūbass\Desktop\GitHub-mokymai\Git_hub_antra_uzduotis\Git_hub_antra_uzduotis\bin\Debug\netcoreapp3.1\Git_hub_antra_uzduotis.exe
+C:\Users\Jokūbass\Desktop\GitHub-mokymai\Git_hub_antra_uzduotis\Git_hub_antra_uzduotis\bin\Debug\netcoreapp3.1\Git_hub_antra_uzduotis.deps.json
+C:\Users\Jokūbass\Desktop\GitHub-mokymai\Git_hub_antra_uzduotis\Git_hub_antra_uzduotis\bin\Debug\netcoreapp3.1\Git_hub_antra_uzduotis.runtimeconfig.json
+C:\Users\Jokūbass\Desktop\GitHub-mokymai\Git_hub_antra_uzduotis\Git_hub_antra_uzduotis\bin\Debug\netcoreapp3.1\Git_hub_antra_uzduotis.runtimeconfig.dev.json
+C:\Users\Jokūbass\Desktop\GitHub-mokymai\Git_hub_antra_uzduotis\Git_hub_antra_uzduotis\bin\Debug\netcoreapp3.1\Git_hub_antra_uzduotis.dll
+C:\Users\Jokūbass\Desktop\GitHub-mokymai\Git_hub_antra_uzduotis\Git_hub_antra_uzduotis\bin\Debug\netcoreapp3.1\Git_hub_antra_uzduotis.pdb
+C:\Users\Jokūbass\Desktop\GitHub-mokymai\Git_hub_antra_uzduotis\Git_hub_antra_uzduotis\obj\Debug\netcoreapp3.1\Git_hub_antra_uzduotis.csproj.AssemblyReference.cache
+C:\Users\Jokūbass\Desktop\GitHub-mokymai\Git_hub_antra_uzduotis\Git_hub_antra_uzduotis\obj\Debug\netcoreapp3.1\Git_hub_antra_uzduotis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jokūbass\Desktop\GitHub-mokymai\Git_hub_antra_uzduotis\Git_hub_antra_uzduotis\obj\Debug\netcoreapp3.1\Git_hub_antra_uzduotis.AssemblyInfoInputs.cache
+C:\Users\Jokūbass\Desktop\GitHub-mokymai\Git_hub_antra_uzduotis\Git_hub_antra_uzduotis\obj\Debug\netcoreapp3.1\Git_hub_antra_uzduotis.AssemblyInfo.cs
+C:\Users\Jokūbass\Desktop\GitHub-mokymai\Git_hub_antra_uzduotis\Git_hub_antra_uzduotis\obj\Debug\netcoreapp3.1\Git_hub_antra_uzduotis.csproj.CoreCompileInputs.cache
+C:\Users\Jokūbass\Desktop\GitHub-mokymai\Git_hub_antra_uzduotis\Git_hub_antra_uzduotis\obj\Debug\netcoreapp3.1\Git_hub_antra_uzduotis.dll
+C:\Users\Jokūbass\Desktop\GitHub-mokymai\Git_hub_antra_uzduotis\Git_hub_antra_uzduotis\obj\Debug\netcoreapp3.1\Git_hub_antra_uzduotis.pdb
+C:\Users\Jokūbass\Desktop\GitHub-mokymai\Git_hub_antra_uzduotis\Git_hub_antra_uzduotis\obj\Debug\netcoreapp3.1\Git_hub_antra_uzduotis.genruntimeconfig.cache
